@@ -1,9 +1,11 @@
 
-
+import Chai from './Chai';
 
 function App() {
   return (
-  <h1>Mugzz aur react</h1>
+<>
+  <Chai/>
+</>
   );
 }
 
