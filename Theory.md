@@ -75,3 +75,7 @@ So we are still keeping the convention of jsx while doing what we want
 yayyyy
 
 we are making js files in src files
+
+
+## video 4
+props means properties. It is basically an object with all the properties is in as key value pair
