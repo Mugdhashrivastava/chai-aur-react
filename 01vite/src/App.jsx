@@ -1,15 +1,20 @@
+import Chai from "./chai";
 
-import Chai from "./chai"
 function App() {
+  const inputHandler = (event) => {
+    console.log(event.target.value);
+  }
 
-  
   return (
-  <>
-  <Chai/>
-  <h1>mugzz aur react</h1>
-  <p>test para</p>
-  </>
-  )
+    <>
+      <h1>mugzz aur react</h1>
+      <p>test para</p>
+      <Chai type="text" onChange={inputHandler} />
+      
+    </>
+  );
 }
 
-export default App
+export default App;
+
+

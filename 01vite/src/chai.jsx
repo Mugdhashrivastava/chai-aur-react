@@ -1,7 +1,11 @@
-function Chai(){
-    return(
-        <h3>chai is ready maybe</h3>
-    )
+import React from 'react';
+
+function Chai(props) {
+  return (
+    <form>
+      <input type={props.type} onChange={props.onChange} value={props.value} />
+    </form>
+  );
 }
 
-export default Chai
+export default Chai;

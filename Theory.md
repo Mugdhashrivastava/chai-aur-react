@@ -78,4 +78,26 @@ we are making js files in src files
 
 
 ## video 4
+original library creation
+exploration lession
+
 props means properties. It is basically an object with all the properties is in as key value pair
+
+
+run the project using go live of html not the terminal
+
+- shift + option + arrow = replicates the line down
+- cd .. gets you out of the file one level
+
+
+## video 5 Why do we need hooks??
+
+created vite app vite viadd=
+    npm create vite@latest
+    cd 02counter
+    npm intsall
+    nom run dev
+
+Go to app.jsx clear pre existing div and write the code that you wanna write in empty <></>
+
+in 02counter app i , Mugdha Shrivastava has created 
