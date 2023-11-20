@@ -157,4 +157,9 @@ study after completing react
 
 ## Video-7 : Tailwind and Props in react Js
 npm create vite@latest
+cd 03tailwindProps 
+npm i       
+
+
+
 
