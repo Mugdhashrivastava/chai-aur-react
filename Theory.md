@@ -158,7 +158,30 @@ study after completing react
 ## Video-7 : Tailwind and Props in react Js
 npm create vite@latest
 cd 03tailwindProps 
-npm i       
+npm i   
+npm run dev   
+
+[tailwind documentation to use](https://tailwindcss.com/)
+
+- what is tailwind???
+    
+    A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
+
+Go to docs tab on top > frameworks guides tab on page > choose vite (case dependent)>follow steps
+
+Since we had already made react project. Skip to point 2
+1. npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+2. add these 
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+
+install the tailwind extension "TAILWIND INTELLIGENCE"
+
+start using it yaayyyyyyyy
 
 
 
